@@ -14,6 +14,8 @@ namespace Bai04
     {
         private List<Account> accountList;
 
+        //Tiến đã ở đây
+
         public Form1()
         {
             InitializeComponent();
