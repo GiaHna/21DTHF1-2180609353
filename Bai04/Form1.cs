@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Bai04
 {
+    //long da o day
     public partial class Form1 : Form
     {
         private List<Account> accountList;
